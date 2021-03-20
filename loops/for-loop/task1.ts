@@ -16,4 +16,4 @@
     XXXXXXXXX
 */
 
-const x = '';
+let x = '';
